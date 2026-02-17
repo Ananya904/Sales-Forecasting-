@@ -49,7 +49,7 @@ Trend component
 
 Seasonal component (12-month cycle)
 
-📈 Model Evaluation
+Model Evaluation
 
 Mean Absolute Error (MAE): 410
 
